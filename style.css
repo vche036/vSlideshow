@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: arial, sans-serif;
+	font-size: 12px;
+}
+h3 {
+	font-size: 13px;
+}
+#wrapper {	
+	margin: 10px;
+}
+ul {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+li {
+	list-style-type: none;
+	display: inline-block;
+	zoom: 1;
+	*display: inline;
+}
+#demo {
+	float: left;
+	margin: 0 20px 10px 0;
+}
+#description {
+	width: 620px;
+}
+#description h1 {
+	font-size: 24px;
+}
+#description b {
+	font-size: 10px;
+}
+#description p {
+	margin: 10px 0;
+}
